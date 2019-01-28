@@ -1,0 +1,6 @@
+Virtual Machine (VR) Is an emulation of a computer system.This allows diferent operatives systems, like Ubontu.
+There are two diferents kinds of VR:
+System virtual machines
+Process virtual machines: alows run applications and programs in a diferent enviroment.
+
+In this proyect we use virtual box to run Ubontu 14.
