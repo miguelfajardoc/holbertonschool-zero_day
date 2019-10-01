@@ -1,5 +1,5 @@
 # 0x01. Emacs
->> Foundations - 0-Day ― 0-Day
+> Foundations - 0-Day ― 0-Day
 
 This proyect allows to holberton students to familiarize the code editor Emacs
 ## Learning Objectives:
